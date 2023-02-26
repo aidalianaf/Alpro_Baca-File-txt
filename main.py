@@ -28,6 +28,4 @@ if found:
         file.close()
         print("Data berhasil ditambahkan ke dalam file.")
     else:
-        exit  
-else:
-    print("Data Tidak Ditemukan.")
+        exit 
